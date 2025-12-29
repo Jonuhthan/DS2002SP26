@@ -1,4 +1,4 @@
-# Lab Rubric (Placeholder)
+# Lab Rubric (To be updated)
 
 - Correctness (40%)
 - Clarity / notebook hygiene (30%)
