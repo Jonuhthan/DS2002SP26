@@ -5,8 +5,8 @@
 - Canvas is submissions + grades.
 - Teams is communication.
 
-Suggested cadence:
+Due Dates:
 - Friday labs due Sunday 11:59pm (unless Canvas says otherwise).
-- Homework extensions due Sunday 11:59pm.
+- Homework due Monday 11:59pm.
 
 This repo contains placeholders for every notebook by date.
